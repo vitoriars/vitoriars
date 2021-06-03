@@ -5,8 +5,8 @@
 - My name is Vitoria and I'm 21 yo
 - I'm a linguistics student at FFLCH USP
 - I love programming and the natural language processing area 
-- Nowdays I'm a member of [Turing.USP](https://github.com/turing-usp)
-- You can find me at [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-silva/)
+- Nowdays I'm a member of [Turing USP](https://github.com/turing-usp)
+- You can find me at [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-silva/)! 
 ----
 ## 💻 Some of my Projects
 - **[Spotify dataset analysis](https://github.com/vitoriars/mini-projeto-analise-e-limpeza)**: A complete analysis of a dataset from Spotify, from cleaning to plot.

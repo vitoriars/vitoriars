@@ -7,7 +7,7 @@
 - I love programming and the natural language processing area 
 - Nowdays I'm a member of [Turing.USP](https://github.com/turing-usp)
 - You can find me at [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-silva/)
-- You can also send me an [e-mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBWdvRfzxgWqSxtqCkkcCmHrrMSkDltGgkMlblPzlgnFTHKXGMQBdJRJLsZRBbVMXKJwxC)
+- You can also send me an [e-mail](mailto: vitoria.27.07@gmail.com)
 
 ----
 ## 💻 Some of my Projects

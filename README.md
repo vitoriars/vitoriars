@@ -1,14 +1,15 @@
-## Hi, there! 😄
+## Hi! 😄
 
 ----
 ## 👩‍💻 About me
-- My name is Vitoria, and I'm 21 yo. You can find me at [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-silva/)!
+- My name is Vitoria and I'm 21 yo
 - I'm a linguistics student at FFLCH USP
 - I love programming and the natural language processing area 
 - Nowdays I'm a member of [Turing.USP](https://github.com/turing-usp)
+- You can find me at [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-silva/)!
 
 ----
-## 💻 Projects
+## 💻 Some of my Projects
 - **[Spotify dataset analysis](https://github.com/vitoriars/mini-projeto-analise-e-limpeza)**: A complete analysis of a dataset from Spotify, from cleaning to plot.
 
 - **[NLP trainee project](https://github.com/vitoriars/Projeto-Final-NLP)**: A project developed for the NLP area, containing a Machine Learning task with sentiment analysis and word vectors.

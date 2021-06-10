@@ -6,6 +6,7 @@
 - I'm a linguistics student at FFLCH USP
 - I love programming and the natural language processing area 
 - Nowdays I'm a member of [Turing USP](https://github.com/turing-usp)
+- I often write on [Medium](https://medium.com/@vitoria.27.07) 
 - You can find me at [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-silva/)! 
 ----
 ## 💻 Some of my Projects
@@ -13,7 +14,7 @@
 
 - **[NLP trainee project](https://github.com/vitoriars/Projeto-Final-NLP)**: A project developed for the NLP area, containing a Machine Learning task with sentiment analysis and word vectors.
 
--  **[Internal classes - NLP](https://github.com/vitoriars/Aulas-internas-NLP)**: Classes given to the NLP area of Turing USP. Themes:
+-  **[Internal classes - NLP](https://github.com/turing-usp/Aulas-NLP)**: Classes given to the NLP area of Turing USP. Some of the themes:
       - SpaCy
       - Bag of Words and TFIDF implementation
       - Introduction to NLTK

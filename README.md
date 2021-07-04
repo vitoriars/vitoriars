@@ -4,7 +4,8 @@
 ## 👩‍💻 About me
 - My name is Vitoria and I'm 21 yo
 - I'm a linguistics student at FFLCH USP
-- I love programming and the natural language processing area 
+- I love programming, my main language is Python
+- I also love the natural language processing and data science area 
 - Nowdays I'm a member of [Turing USP](https://github.com/turing-usp)
 - I often write on [Medium](https://medium.com/@vitoria.27.07) 
 - You can find me at [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-silva/)! 

@@ -13,6 +13,10 @@
 ## 💻 Some of my Projects
 - **[Spotify dataset analysis](https://github.com/vitoriars/mini-projeto-analise-e-limpeza)**: A complete analysis of a dataset from Spotify, from cleaning to plot.
 
+- **[Costumer reviews EDA and prediction](https://github.com/vitoriars/EDA-and-prediction)**: An exploratoy dara analysis of a dataset containing reviews from costumers
+
+- **[Fake news detector](https://github.com/vitoriars/fake-news-detector)**: A fake news classifier using Pycaret 
+
 - **[NLP trainee project](https://github.com/vitoriars/Projeto-Final-NLP)**: A project developed for the NLP area, containing a Machine Learning task with sentiment analysis and word vectors.
 
 -  **[Internal classes - NLP](https://github.com/turing-usp/Aulas-NLP)**: Classes given to the NLP area of Turing USP. Some of the themes:

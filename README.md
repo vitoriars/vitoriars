@@ -2,7 +2,7 @@
 
 ----
 ## 👩‍💻 About me
-- My name is Vitoria and I'm 21 yo
+- My name is Vitoria and I'm 22 yo
 - I'm a linguistics student at FFLCH USP
 - I love programming, my main language is Python
 - I also love the natural language processing and data science area 

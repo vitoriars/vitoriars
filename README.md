@@ -5,7 +5,7 @@
 - My name is Vitoria and I'm 23 yo
 - I'm a linguistics student at FFLCH USP and i work as a Product Analyst!
 - For a long time I was a member of [Turing USP](https://github.com/turing-usp)
-- I often write on [Medium](https://medium.com/@vitoria.27.07) 
+- I often write on [Medium](https://medium.com/@vitoriars) 
 - You can find me at [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-silva/)! 
 ----
 ## 💻 Some of my Projects
